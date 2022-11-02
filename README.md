@@ -4,7 +4,8 @@
 
 
 This program is for an automatic controller for greenhouse using arduino, you can use this guide to replicate the project, the project was reviewed and accepted by IEEE 2022.
-The project was focused in precision agriculture and was created with recycled materials. If you want to read more about the project you can read al the project here: <a href+"https://github.com/DCenten0/Automated-irrigation-controller-for-greenhouses/blob/main/Design%20and%20implementation%20of%20an%20automated%20greenhouse%20irrigation%20controller%2C%20made%20with%20recycled%20materials%2C%20focused%20on%20precision%20agriculture..pdf">Documentation</a>
+<p>The project was focused in precision agriculture and was created with recycled materials. If you want to read more about the project you can read all the project<a href="https://github.com/DCenten0/Automated-irrigation-controller-for-greenhouses/blob/main/Design%20and%20implementation%20of%20an%20automated%20greenhouse%20irrigation%20controller%2C%20made%20with%20recycled%20materials%2C%20focused%20on%20precision%20agriculture..pdf" title="Title">
+Here.</a></p>
 
 The program is built in such a way that each process is independent of each other, in other words, no process affects the operation of the other. This means that a multiprogramming environment was achieved.
 
