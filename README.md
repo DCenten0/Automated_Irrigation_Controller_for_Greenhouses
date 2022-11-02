@@ -4,10 +4,11 @@
 
 
 This program is for an automatic controller for greenhouse using arduino, you can use this guide to replicate the project, the project was reviewed and accepted by IEEE 2022.
-The project was focused in precision agriculture and was created with recycled materials. If you want to read more about the project you can read al the project here:  
-
+The project was focused in precision agriculture and was created with recycled materials. If you want to read more about the project you can read al the project here: 
 
 The program is built in such a way that each process is independent of each other, in other words, no process affects the operation of the other. This means that a multiprogramming environment was achieved.
+
+You can use the arduino code freely and without limitations. If you want to see the code go here: 
 
 <h2>The materials you need are:</h2> 
 
