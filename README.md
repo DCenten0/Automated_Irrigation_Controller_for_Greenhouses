@@ -1,7 +1,8 @@
 <h1 align = "center">Automated irrigation controller for greenhouses </h1>
 
-![Irrigation controller](https://user-images.githubusercontent.com/101992463/199425279-c3ccb938-c73b-416d-9bfd-d49b3f211f4c.png) 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/101992463/199425279-c3ccb938-c73b-416d-9bfd-d49b3f211f4c.png" />
+</p>
 
 This program is for an automatic controller for greenhouse using arduino, you can use this guide to replicate the project, the project was reviewed and accepted by IEEE 2022.
 <p>The project was focused in precision agriculture and was created with recycled materials. If you want to read more about the project you can read all the project<a href="https://github.com/DCenten0/Automated-irrigation-controller-for-greenhouses/blob/main/Design%20and%20implementation%20of%20an%20automated%20greenhouse%20irrigation%20controller%2C%20made%20with%20recycled%20materials%2C%20focused%20on%20precision%20agriculture..pdf" title="Title">
